@@ -5,6 +5,9 @@ The python script reads the endnote XML format and generates an OJS XML file tha
 
 The OJS bulk upload will create a new "journal", add the papers with the metadata in the OJSXML file and will download the PDF file from a web site and add to the OJS archive
 
+Here is a link to the instructions for importing bulk data to OJS
+https://docs.pkp.sfu.ca/importing-exporting/en/
+
 General instructions:
 
 1) Use a citation manager to create the main entries for the paper.  Zotero and Mendeley seem to work better than endnote at autopopulating title, authors, abstracts, etc
