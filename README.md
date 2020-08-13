@@ -11,7 +11,7 @@ General instructions:
 
 2) Export as an endnote XML format database with the PDFs
 
-3) Do bulk editing of XML file using search and replace with the XML tags as desired
+3) Do bulk editing of endnote XML file using search and replace with the XML tags as desired
 
 4) Put the directory of the PDFs in a publicly accessible location (I use a public getup)
 
