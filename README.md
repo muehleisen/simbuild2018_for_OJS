@@ -13,9 +13,9 @@ General instructions:
 
 3) Do bulk editing of endnote XML file using search and replace with the XML tags as desired
 
-4) Put the directory of the PDFs in a publicly accessible location (I use a public getup)
+4) Put the directory of the PDFs in a publicly accessible location (I use a public github repository)
 
-5) Edit the convert_to_OJSXML.py file to the proper URL were the papers are found and filename of the endnote
+5) Edit the convert_to_OJSXML.py file to the proper URL were the papers are found and can be downloaded directly and filename of the endnote XML file
 
 6) run the convert_to_OJSXML.py file to generate the OJS format XML
 
